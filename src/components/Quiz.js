@@ -32,6 +32,9 @@ class Quiz extends Component {
         fetch('http://localhost:3001/hindi-numbers')
             .then(res => res.json())
             .then((data) => {
+
+                // TODO : Need to fix function calls when calling this method from from Question Component
+                
                 let rand = this.getRandomIntInclusive(0, 100);
                 let question = data[rand];
                 let options = this.shuffleArray([parseInt(question.Arabic), this.getRandomIntInclusive(0, 33), this.getRandomIntInclusive(34, 66), this.getRandomIntInclusive(67, 100)]);
@@ -47,7 +50,7 @@ class Quiz extends Component {
     render(){
         return (
             <div>
-                <Question question={this.state.question} options={this.state.options} correct_option={this.state.correct_option}></Question>
+                <Question question={this.state.question} options={this.state.options} correctOption={this.state.correct_option} nextQuestion={this.getQuestion}></Question>
                 <div className="p-2">
                     <button className="btn btn-primary" onClick={() => this.getQuestion()}>Next</button>
                 </div>
