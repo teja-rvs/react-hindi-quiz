@@ -7,10 +7,10 @@ class Study extends React.Component {
     }
 
     componentDidMount(){
-        fetch('http://localhost:3001/hindi-numbers')
+        fetch('./db.json')
             .then(res => res.json())
             .then((data) => {
-                this.setState({ numbers: data });
+                this.setState({ numbers: data.hindi_numbers });
             })
             .catch(console.log)
 

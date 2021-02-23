@@ -9,13 +9,13 @@ class Quiz extends Component {
         correct_option: 0
     }
 
-    getRandomIntInclusive(min, max){
+    getRandomIntInclusive = (min, max) => {
         min = Math.ceil(min);
         max = Math.floor(max);
         return Math.floor(Math.random() * (max - min + 1) + min);
     }
 
-    shuffleArray(array) {
+    shuffleArray = (array) => {
         for (let i = array.length - 1; i > 0; i--) {
             const j = Math.floor(Math.random() * (i + 1));
             [array[i], array[j]] = [array[j], array[i]];
@@ -28,13 +28,11 @@ class Quiz extends Component {
         this.getQuestion();
     }
 
-    getQuestion(){
-        fetch('http://localhost:3001/hindi-numbers')
+    getQuestion = () => {
+        fetch('http://localhost:3000/db.json')
             .then(res => res.json())
             .then((data) => {
-
-                // TODO : Need to fix function calls when calling this method from from Question Component
-                
+                data = data.hindi_numbers;
                 let rand = this.getRandomIntInclusive(0, 100);
                 let question = data[rand];
                 let options = this.shuffleArray([parseInt(question.Arabic), this.getRandomIntInclusive(0, 33), this.getRandomIntInclusive(34, 66), this.getRandomIntInclusive(67, 100)]);

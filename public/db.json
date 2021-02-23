@@ -1,0 +1,408 @@
+{
+    "hindi_numbers": [
+        {
+            "Arabic": "0",
+            "Hindi": "Shuniye"
+        },
+        {
+            "Arabic": "1",
+            "Hindi": "Ek"
+        },
+        {
+            "Arabic": "2",
+            "Hindi": "Do"
+        },
+        {
+            "Arabic": "3",
+            "Hindi": "Teen"
+        },
+        {
+            "Arabic": "4",
+            "Hindi": "Char"
+        },
+        {
+            "Arabic": "5",
+            "Hindi": "Panch"
+        },
+        {
+            "Arabic": "6",
+            "Hindi": "Cheh"
+        },
+        {
+            "Arabic": "7",
+            "Hindi": "Saat"
+        },
+        {
+            "Arabic": "8",
+            "Hindi": "Aath"
+        },
+        {
+            "Arabic": "9",
+            "Hindi": "Nao"
+        },
+        {
+            "Arabic": "10",
+            "Hindi": "Das"
+        },
+        {
+            "Arabic": "11",
+            "Hindi": "Gyaarah"
+        },
+        {
+            "Arabic": "12",
+            "Hindi": "Baarah"
+        },
+        {
+            "Arabic": "13",
+            "Hindi": "Tehrah"
+        },
+        {
+            "Arabic": "14",
+            "Hindi": "Chaudah"
+        },
+        {
+            "Arabic": "15",
+            "Hindi": "Pandrah"
+        },
+        {
+            "Arabic": "16",
+            "Hindi": "Saulah"
+        },
+        {
+            "Arabic": "17",
+            "Hindi": "Satrah"
+        },
+        {
+            "Arabic": "18",
+            "Hindi": "Atharah"
+        },
+        {
+            "Arabic": "19",
+            "Hindi": "Unnis"
+        },
+        {
+            "Arabic": "20",
+            "Hindi": "Bees"
+        },
+        {
+            "Arabic": "21",
+            "Hindi": "Ikis"
+        },
+        {
+            "Arabic": "22",
+            "Hindi": "Bais"
+        },
+        {
+            "Arabic": "23",
+            "Hindi": "Teis"
+        },
+        {
+            "Arabic": "24",
+            "Hindi": "Chaubis"
+        },
+        {
+            "Arabic": "25",
+            "Hindi": "Pachis"
+        },
+        {
+            "Arabic": "26",
+            "Hindi": "Chabis"
+        },
+        {
+            "Arabic": "27",
+            "Hindi": "Satais"
+        },
+        {
+            "Arabic": "28",
+            "Hindi": "Athais"
+        },
+        {
+            "Arabic": "29",
+            "Hindi": "Unatis"
+        },
+        {
+            "Arabic": "30",
+            "Hindi": "Tis"
+        },
+        {
+            "Arabic": "31",
+            "Hindi": "Ikatis"
+        },
+        {
+            "Arabic": "32",
+            "Hindi": "Batis"
+        },
+        {
+            "Arabic": "33",
+            "Hindi": "Tentis"
+        },
+        {
+            "Arabic": "34",
+            "Hindi": "Chautis"
+        },
+        {
+            "Arabic": "35",
+            "Hindi": "Pentis"
+        },
+        {
+            "Arabic": "36",
+            "Hindi": "Chatis"
+        },
+        {
+            "Arabic": "37",
+            "Hindi": "Setis"
+        },
+        {
+            "Arabic": "38",
+            "Hindi": "Adhtis"
+        },
+        {
+            "Arabic": "39",
+            "Hindi": "Untaalis"
+        },
+        {
+            "Arabic": "40",
+            "Hindi": "Chalis"
+        },
+        {
+            "Arabic": "41",
+            "Hindi": "Iktalis"
+        },
+        {
+            "Arabic": "42",
+            "Hindi": "Byalis"
+        },
+        {
+            "Arabic": "43",
+            "Hindi": "Tetalis"
+        },
+        {
+            "Arabic": "44",
+            "Hindi": "Chavalis"
+        },
+        {
+            "Arabic": "45",
+            "Hindi": "Pentalis"
+        },
+        {
+            "Arabic": "46",
+            "Hindi": "Chyalis"
+        },
+        {
+            "Arabic": "47",
+            "Hindi": "Setalis"
+        },
+        {
+            "Arabic": "48",
+            "Hindi": "Adtalis"
+        },
+        {
+            "Arabic": "49",
+            "Hindi": "Unachas"
+        },
+        {
+            "Arabic": "50",
+            "Hindi": "Pachas"
+        },
+        {
+            "Arabic": "51",
+            "Hindi": "Ikyavan"
+        },
+        {
+            "Arabic": "52",
+            "Hindi": "Baavan"
+        },
+        {
+            "Arabic": "53",
+            "Hindi": "Tirepan"
+        },
+        {
+            "Arabic": "54",
+            "Hindi": "Chauvan"
+        },
+        {
+            "Arabic": "55",
+            "Hindi": "Pachpan"
+        },
+        {
+            "Arabic": "56",
+            "Hindi": "Chappan"
+        },
+        {
+            "Arabic": "57",
+            "Hindi": "Satavan"
+        },
+        {
+            "Arabic": "58",
+            "Hindi": "Athaavan"
+        },
+        {
+            "Arabic": "59",
+            "Hindi": "Unsadh"
+        },
+        {
+            "Arabic": "60",
+            "Hindi": "Saadh"
+        },
+        {
+            "Arabic": "61",
+            "Hindi": "Iksadh"
+        },
+        {
+            "Arabic": "62",
+            "Hindi": "Baasad"
+        },
+        {
+            "Arabic": "63",
+            "Hindi": "Tirsadh"
+        },
+        {
+            "Arabic": "64",
+            "Hindi": "Chausadh"
+        },
+        {
+            "Arabic": "65",
+            "Hindi": "Pensadh"
+        },
+        {
+            "Arabic": "66",
+            "Hindi": "Chiyasadh"
+        },
+        {
+            "Arabic": "67",
+            "Hindi": "Sadhsadh"
+        },
+        {
+            "Arabic": "68",
+            "Hindi": "Asdhsadh"
+        },
+        {
+            "Arabic": "69",
+            "Hindi": "Unahtar"
+        },
+        {
+            "Arabic": "70",
+            "Hindi": "Sattar"
+        },
+        {
+            "Arabic": "71",
+            "Hindi": "Ikahtar"
+        },
+        {
+            "Arabic": "72",
+            "Hindi": "Bahatar"
+        },
+        {
+            "Arabic": "73",
+            "Hindi": "Tihatar"
+        },
+        {
+            "Arabic": "74",
+            "Hindi": "Chauhatar"
+        },
+        {
+            "Arabic": "75",
+            "Hindi": "Pachhatar"
+        },
+        {
+            "Arabic": "76",
+            "Hindi": "Chiyahatar"
+        },
+        {
+            "Arabic": "77",
+            "Hindi": "Satahatar"
+        },
+        {
+            "Arabic": "78",
+            "Hindi": "Adhahatar"
+        },
+        {
+            "Arabic": "79",
+            "Hindi": "Unnasi"
+        },
+        {
+            "Arabic": "80",
+            "Hindi": "Assi"
+        },
+        {
+            "Arabic": "81",
+            "Hindi": "Ikyasi"
+        },
+        {
+            "Arabic": "82",
+            "Hindi": "Byaasi"
+        },
+        {
+            "Arabic": "83",
+            "Hindi": "Tirasi"
+        },
+        {
+            "Arabic": "84",
+            "Hindi": "Chaurasi"
+        },
+        {
+            "Arabic": "85",
+            "Hindi": "Pachasi"
+        },
+        {
+            "Arabic": "86",
+            "Hindi": "Chiyaasi"
+        },
+        {
+            "Arabic": "87",
+            "Hindi": "Sataasi"
+        },
+        {
+            "Arabic": "88",
+            "Hindi": "Athasi"
+        },
+        {
+            "Arabic": "89",
+            "Hindi": "Nauasi"
+        },
+        {
+            "Arabic": "90",
+            "Hindi": "Nabbe"
+        },
+        {
+            "Arabic": "91",
+            "Hindi": "Ikyaanave"
+        },
+        {
+            "Arabic": "92",
+            "Hindi": "Baanave"
+        },
+        {
+            "Arabic": "93",
+            "Hindi": "Tiranave"
+        },
+        {
+            "Arabic": "94",
+            "Hindi": "Chauraanave"
+        },
+        {
+            "Arabic": "95",
+            "Hindi": "Pachaanave"
+        },
+        {
+            "Arabic": "96",
+            "Hindi": "Chiyaanave"
+        },
+        {
+            "Arabic": "97",
+            "Hindi": "Sataanave"
+        },
+        {
+            "Arabic": "98",
+            "Hindi": "Adhaanave"
+        },
+        {
+            "Arabic": "99",
+            "Hindi": "Ninyaanave"
+        },
+        {
+            "Arabic": "100",
+            "Hindi": "Ek Sau"
+        }
+    ]
+}
